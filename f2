@@ -1,0 +1,13 @@
+  <<<<< preparation >>>>>>>>>>
+
+  public void basic()
+  {
+    int i=0,j=1;k;
+    for(int u=2;u<10;u++)
+    {
+    k=i+j;
+    System.out.println(k);
+    i=j;
+    j=k;
+    }
+    }:
